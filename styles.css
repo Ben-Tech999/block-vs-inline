@@ -2,3 +2,12 @@ body{
 background-color: #484848;
 color:aquamarine;
 }
+
+#main-title{
+text-decoration: underline;
+text-transform:uppercase;
+}
+
+.centered-heading{
+text-align: center;
+}
